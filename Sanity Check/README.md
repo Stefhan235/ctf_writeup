@@ -13,5 +13,5 @@ Diberikan sebuah flag yang kemungkinan telah di enkripsi :
 ![preview](images/Result.png)
 
 ```
-Flag Yang didapatkan : ForestyHC{welcome_to_hacker_class_foresty_596e77}
+Flag : ForestyHC{welcome_to_hacker_class_foresty_596e77}
 ```
