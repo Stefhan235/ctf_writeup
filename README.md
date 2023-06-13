@@ -8,4 +8,4 @@ List of Challange I solved.
 | Category | Challenge |
 | --- | --- |
 | Web Exploitation | [Fortune Cookies](/Fortune%20Cookies/)
-| MISCELLANEOUS | [Sanity Check](/Judul%203/)
+| MISCELLANEOUS | [Sanity Check](/Sanity%20Check/)
