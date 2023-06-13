@@ -7,8 +7,8 @@ Diberikan sebuah flag yang kemungkinan telah di enkripsi :
 ![preview](images/SanityCheck.png)
 
 ## Solution
-Dilihat dari flag yang diberikan itu merupakan Hexa, sehingga disini saya akan mengenkripsi Hexa menjadi string/text dengan encoding ASCII.
-Tools yang digunakan : https://www.rapidtables.com/convert/number/hex-to-ascii.html
+- Dilihat dari flag yang diberikan itu merupakan Hexa, sehingga disini saya akan mengenkripsi Hexa menjadi string/text dengan encoding ASCII.
+- Tools yang digunakan : https://www.rapidtables.com/convert/number/hex-to-ascii.html
 
 ![preview](images/Result.png)
 
