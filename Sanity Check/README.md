@@ -12,4 +12,6 @@ Tools yang digunakan : https://www.rapidtables.com/convert/number/hex-to-ascii.h
 
 ![preview](images/Result.png)
 
+```
 Flag Yang didapatkan : ForestyHC{welcome_to_hacker_class_foresty_596e77}
+```
