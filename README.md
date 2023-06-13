@@ -7,5 +7,5 @@ List of Challange I solved.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Web Exploitation | [Fortune Cookies](/Judul%201/)
+| Web Exploitation | [Fortune Cookies](/Fortune Cookies/)
 | MISCELLANEOUS | [Sanity Check](/Judul%203/)
