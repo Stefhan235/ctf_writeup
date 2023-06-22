@@ -7,6 +7,9 @@ List of Challange I solved.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Cryptography | [Vigenere](/Vigenere/)
-| Web Exploitation | [Fortune Cookies](/Fortune%20Cookies/)
 | MISCELLANEOUS | [Sanity Check](/Sanity%20Check/)
+| Web Exploitation | [Fortune Cookies](/Fortune%20Cookies/)
+| Cryptography | [Emoji](/Emoji/)
+| Cryptography | [RSA](/RSA/)
+| Cryptography | [Vigenere](/Vigenere/)
+| Forensic | [Recover Me](/Recover%20Me/)
