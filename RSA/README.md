@@ -4,7 +4,7 @@ RSA
 ## About the Challenge
 Diberikan sebuah file 'output.txt' 
 
-![preview](images/problem.jpg)
+![preview](images/problem.png)
 
 ## Solution
 - Isi dari file 'output.txt' adalah sebagai berikut : 
@@ -15,8 +15,11 @@ n = 1265609951494665042655790217663116297704931412821118624013412974315247788166
 e = 65537
 c = 101745219595200349523152631186972604387562687070424337391827653334680968467499417833947662984712440742528056447473955784742413027053684762025541828629380347762172127149025219273226750365996684215327960258305658612699878870293797722424415286951422307953692960206756965270631710865360680064948856718463863745817
 ```
+- Selanjut saya menggunakan tools RSA Chiper untuk mendapatkan flag. [url : https://www.dcode.fr/rsa-cipher]
+- Selanjut saya memasukan nilai RSA sesuai dengan variabelnya dan flag didapat.
+![preview](images/result.png) 
 
 
 ```
-ForestyHC{H4ck3rrr_Cla555}
+ForestyHC{knowing_basic_of_RSA_calculation_1af53a}
 ```
