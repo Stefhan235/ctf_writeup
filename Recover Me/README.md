@@ -16,7 +16,7 @@ Diberikan sebuah url menuju ke document (google docs) dimana user lupa mengubah 
 - lalu saya mencoba melihat hex dari image ('Bendera.png') tersebut dengan menggunakan tools online. [url : https://hexed.it/]
 ![preview](images/header1.png)
 - Karena file tersebut berekstensi .png maka saya mencoba mencari header dari png dan berikut adalah hasilnya : 
-![preview](images/pngHeader.png)
+![preview](images/pngHeader.jpeg)
 - Setelah itu saya mencocokan header hex png dengan header dari gambar 'Bendera.png'
 - Ternyata ditemukan bahwa header file image 'Bendera.png' tidak sesuai dengan header png, maka dari itu saya mengubah header 'Bendera.png' menjadi sesuai dengan header png.
 ![preview](images/header2.png)
