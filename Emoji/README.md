@@ -12,7 +12,7 @@ Diberikan sebuah file 'message.txt'
 😈 😒 😓 😇 😈 😒 😑 😄 😀 😋 😋 😘 😂 😑 😘 😏 😓 😎 😂 😇 😀 😋 😋
 ```
 - lalu diberikan juga hint berupa kode python yang sepertinya berfungsi untuk mengubah string menjadi emoji. Berikut kode python :
-```
+```py
 import string
 
 def emojiCrypt(plainText):
@@ -29,7 +29,7 @@ def emojiCrypt(plainText):
 - Selanjutnya saya mencoba memasukan string_uppercase dan outputnya berupa emoji.
 ![preview](images/run1.png) 
 - Selanjutnya saya memodifikasi kode program di atas agar dapat menampilkan tiap emoji untuk tiap karakter uppercase. Berikut ada kodenya : 
-```
+```py
 import string
 
 def emojiCrypt(plainText):
